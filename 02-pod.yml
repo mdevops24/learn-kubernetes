@@ -9,3 +9,4 @@ spec:
       image: docker.io/nginx
     - name: mongo
       image: docker.io/mongo
+#kubectl apply -f 02-pod.yml
