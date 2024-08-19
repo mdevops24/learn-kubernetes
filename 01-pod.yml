@@ -1,4 +1,4 @@
-#Singel Container
+#Single Container
 apiVersion: v1
 kind: Pod
 metadata:
